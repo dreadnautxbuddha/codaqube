@@ -1,4 +1,4 @@
-# Code Analysis Tools Packed in one compose file
+# Code analysis tools packed in one compose file
 
 As of writing, only SonarQube is available, but more will be added in the future.
 
