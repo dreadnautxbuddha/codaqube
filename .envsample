@@ -1,0 +1,4 @@
+# Sonar Database Properties
+SONAR_DB_USERNAME=
+SONAR_DB_PASSWORD=
+
